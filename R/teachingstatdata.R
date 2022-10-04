@@ -1,0 +1,24 @@
+#' Teaching Statistics Data Simulation
+#'
+#' @description Univariate and multivariate normal data simulation. They also supply a brief summary of the analysis for each experiment/design.
+#' \itemize{
+#'
+#'  \item Independent samples.
+#'
+#'  \item One-way and two-way ANOVA.
+#'
+#'  \item Paired samples (T-Test & Regression).
+#'
+#'  \item Repeated measures (ANOVA & Multiple Regression).
+#'
+#'  \item Clinical Assay.
+#'
+#' }
+#'
+#' @docType package
+#'
+#' @author Esteban Cabello García and Pedro Jesús Femia Marzo.
+#'
+#' @name stats4teaching
+NULL
+
